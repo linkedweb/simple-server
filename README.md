@@ -1,4 +1,4 @@
-# simple-server
+# Simple Server
 
 This is just a very simple Django backend server that is part of a Flutter tutorial series.
 
