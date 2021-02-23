@@ -5,6 +5,7 @@ This is just a very simple Django backend server that is part of a Flutter tutor
 In order to get this server up and running, follow these steps:
 
 -   clone the repository
+-   navigate into the newly created folder: cd simple-server
 -   setup a virtual environment by running: python3 -m venv venv
 -   then activate the virtual environment by running: source venv/bin/activate (macOS) or source venv/Scripts/activate.bat (windows)
 -   then install the needed packages by running: pip install -r requirements.txt
